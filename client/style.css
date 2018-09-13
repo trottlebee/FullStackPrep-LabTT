@@ -1,0 +1,14 @@
+a:link {
+    font-size: 35px;
+}
+
+h1 {
+    font-size: 100px;
+}
+
+
+table,
+th,
+td {
+    border: 1px solid black;
+}
